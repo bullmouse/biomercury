@@ -3,9 +3,10 @@
   justify-content: center;
   align-items: center;
   width: 100vw;
-  height: 100vh;
+  height: 85vh;
 }
 
 .main {
   margin-bottom: "200px";
+  padding-bottom: "200px";
 }
